@@ -131,7 +131,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```env
-OPENAI_API_KEY=your_api_key
+OPENAI_API_KEY= api_key
 ```
 
 
